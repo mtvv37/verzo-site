@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Syne:wght@800&amp;display=swap');
+    .word { font-family: 'Syne', sans-serif; font-weight: 800; letter-spacing: -0.02em; }
+  </style>
+  <text x="4" y="60" class="word" font-size="56" fill="#0E0D16">VERZ<tspan fill="#C6FF3D">O</tspan></text>
+</svg>
