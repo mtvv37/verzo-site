@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 80" width="380" height="80">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Syne:wght@800&amp;display=swap');
+    .word { font-family: 'Syne', sans-serif; font-weight: 800; letter-spacing: -0.02em; }
+  </style>
+  <polygon points="9,12 24,66 39,12 31.5,12 24,38 16.5,12" fill="#C6FF3D"/>
+  <text x="56" y="60" class="word" font-size="56" fill="#FFFFFF">VERZ<tspan fill="#C6FF3D">O</tspan></text>
+</svg>
